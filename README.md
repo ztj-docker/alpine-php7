@@ -11,7 +11,7 @@ alpine php7 基础映像，安装了所有扩展。
 ## 使用教程
 ```
 docker run -ti --rm ztj1993/alpine-php7
-docker run -ti --rm ztj1993/alpine-php7 php-v
+docker run -ti --rm ztj1993/alpine-php7 php -v
 ```
 
 ## 更新日志
