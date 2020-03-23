@@ -1,4 +1,4 @@
-FROM ztj1993/alpine:latest
+FROM ztj1993/alpine:3.11
 
 LABEL maintainer="Ztj <ztj1993@gmail.com>"
 
